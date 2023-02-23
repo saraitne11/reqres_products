@@ -10,7 +10,9 @@ import java.util.List;
 @Entity
 @JsonIdentityInfo(generator = ObjectIdGenerators.IntSequenceGenerator.class)
 public class Product {
-
+    
+    ## SKCC - AWS CodeBuild Test
+    
     @Id
     @GeneratedValue
     private Long id;
