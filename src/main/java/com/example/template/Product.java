@@ -11,7 +11,7 @@ import java.util.List;
 @JsonIdentityInfo(generator = ObjectIdGenerators.IntSequenceGenerator.class)
 public class Product {
     
-    ## SKCC - AWS CodeBuild Test
+    // SKCC - AWS CodeBuild Test
     
     @Id
     @GeneratedValue
